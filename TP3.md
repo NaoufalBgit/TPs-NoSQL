@@ -1,4 +1,4 @@
-# TP – Sharding MongoDB : réponses aux questions
+# TP3 – Sharding MongoDB
 
 ## 1. Qu’est-ce que le sharding dans MongoDB et pourquoi est-il utilisé ?
 Le sharding est un mécanisme de partitionnement horizontal des données sur plusieurs serveurs afin d’améliorer la scalabilité et répartir la charge. :contentReference[oaicite:0]{index=0}
